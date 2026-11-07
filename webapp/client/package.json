@@ -30,7 +30,7 @@
 		"prettier:format": "prettier --write .",
 		"postinstall": "patch-package"
 	},
-	"packageManager": "npm@12.2.1",
+	"packageManager": "npm@12.2.2",
 	"devDependencies": {
 		"@camunda/design-system": "0.81.0",
 		"@tanstack/eslint-plugin-query": "5.105.3",
